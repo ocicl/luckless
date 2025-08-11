@@ -4,6 +4,6 @@ Lockless data structures for Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/shinmera/luckless.git |
-| commit  | 868320e                                      |
+| commit  | 5e8248c                                      |
 | systems | luckless                                     |
 |---------+----------------------------------------------|
